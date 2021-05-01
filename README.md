@@ -14,10 +14,10 @@ Primero creamos una  tabla llamada users con 3 columnas.
 
 Las columnas han de ser así:
 
-id = hay que activar la opción A_I para que por cada registro que se haga del formulario, se auto incremente el ID.
+		id = hay que activar la opción A_I para que por cada registro que se haga del formulario, se auto incremente el ID.
 
-username  = El tipo ha de ser varchar 
+		username  = El tipo ha de ser varchar 
 
-password = El tipo ha de ser varchar
+		password = El tipo ha de ser varchar
 
-		dsds
+dsds
