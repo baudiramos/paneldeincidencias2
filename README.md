@@ -16,7 +16,7 @@ Primero creamos una  tabla llamada users con 3 columnas.
 
 ### Las columnas han de ser así 📋:
 
-Para la tabla users:
+Para la tabla "users":
 
 
 		id = hay que activar la opción A_I para que por cada registro que se haga del formulario, se auto incremente el ID.
@@ -29,6 +29,8 @@ Para la tabla users:
 #### Esta opción es necesaria para el correcto funcionamiento del panel 🔧 :
 
 #### Crearemos las siguientes columnas: 
+
+Para la tabla "incidencias":
 
 	id = hay que activar la opción A_I para que por cada registro que se haga del formulario, se auto incremente el ID.
 
