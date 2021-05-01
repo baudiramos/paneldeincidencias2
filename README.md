@@ -8,6 +8,8 @@ Para que funcione tenemos que crear una base de datos con las siguientes tablas:
 
 ### Esta opción  es opcional para la tabla "users" ya que el proyecto incluye una app que te registra directamente los usuarios en la base de datos. El fichero se llama "register.php".
 
+#### Se recomienda eliminar el archivo register.php una vez estén los usuarios dados de alta.
+
 
 		
 Primero creamos una  tabla llamada users con 3 columnas.
