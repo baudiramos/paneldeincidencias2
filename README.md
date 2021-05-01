@@ -3,6 +3,8 @@ Panel de incidencias conectado con formulario web.
 
 _Este es mi primer código que publico, puede contener fallos, cualquier fallo haganlo saber en la sección "issues"._
 
+#### El formulario es el archivo "incidencias.php".
+
 Para que funcione tenemos que crear una base de datos con las siguientes tablas:
 
 
