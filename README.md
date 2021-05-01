@@ -12,7 +12,9 @@ __________________________
 		
 Primero creamos una  tabla llamada users con 3 columnas.
 
-Las columnas han de ser así:
+###Las columnas han de ser así📋
+
+
 
 		id = hay que activar la opción A_I para que por cada registro que se haga del formulario, se auto incremente el ID.
 
@@ -20,4 +22,4 @@ Las columnas han de ser así:
 
 		password = El tipo ha de ser varchar
 
-dsds
+
